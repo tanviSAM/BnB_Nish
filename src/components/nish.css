@@ -1,0 +1,67 @@
+.logo_img {
+  width: 100%;
+  background-color: #98e1f2;
+  margin: auto;
+}
+.signUp_form {
+  width: 30%;
+  border: 1px solid black;
+  margin: auto;
+  margin-top: -90px;
+  background-color: white;
+  border-radius: 15%;
+  border: none;
+  padding: 1%;
+  box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+  text-align: center;
+}
+.signUp_form > h3 {
+  color: #98e1f2;
+}
+h4 {
+  text-align: left;
+  margin-left: 70px;
+}
+.input_div {
+  margin-top: 20px;
+}
+.input_div > input {
+  width: 70%;
+  height: 48px;
+  border: none;
+  border-radius: 15px;
+  padding: 0.5% 5%;
+  font-size: 15px;
+  background-color: rgba(185, 185, 185, 0.378);
+}
+.button_submit {
+  margin-top: 30px;
+}
+.button_submit > button {
+  margin: auto;
+  height: 48px;
+  width: 60%;
+  border-radius: 15px;
+  border: none;
+  background-color: #98e1f2;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  cursor: pointer;
+}
+.signUp_tag {
+  color: #98e1f2;
+  cursor: pointer;
+}
+.container_logo {
+  width: 100%;
+  margin: auto;
+  background-color: #98e1f2;
+  text-align: center;
+}
+
+/* @media screen and (min-width: 480px) {
+  .signUp_form {
+    width: 70%;
+  }
+} */
