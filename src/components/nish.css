@@ -18,6 +18,28 @@
 .signUp_form > h3 {
   color: #98e1f2;
 }
+.icon_container {
+  width: 30%;
+  display: flex;
+  margin: auto;
+  text-align: center;
+  /* border: 1px solid red; */
+  padding: 1%;
+}
+.icon {
+  color: rgb(99, 99, 99);
+  margin: auto;
+  text-align: center;
+  /* border: 1px solid red; */
+  cursor: pointer;
+}
+ion-icon {
+  color: rgb(99, 99, 99);
+  font-size: 35px;
+  margin: auto;
+  /* border: 1px solid red; */
+  cursor: pointer;
+}
 h4 {
   text-align: left;
   margin-left: 70px;
