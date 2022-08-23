@@ -83,8 +83,12 @@ h4 {
   text-align: center;
 }
 
-/* @media screen and (min-width: 480px) {
+/* @media screen and (min-width: 0px) and (max-width: 375px){
   .signUp_form {
     width: 70%;
+  }
+  @media screen and (min-width:375px) and (max-width: 768px){
+  .signUp_form {
+    width: 50%;
   }
 } */
